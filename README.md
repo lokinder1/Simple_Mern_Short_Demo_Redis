@@ -42,3 +42,18 @@ it's made by using following technologies
     3. start Server App
     yarn start
 ```
+
+
+## Tasks Completed
+
+1. Homepage
+2. Form component
+3. Basic server to handle Cache 
+
+## Demo ScreenShots
+
+- Server DB Request
+  ![fromServerDB](fromServerDB.png)
+
+- Server DB Request
+  ![fromServerCache](fromServerCache.png)
